@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">BlueApp Prov</string>
+    <string name="title_activity_main">BlueApp Prov </string>
+    <string name="conex">Conectar</string>
+    <string name="conex2">Conectado A:</string>
+    <string name="search">  Buscar Dispositivos</string>
+    <string name="recibir">Recibir Saldo</string>
+    <string name="transf">Realizar Pago</string>
+    <string name="su_s">Su Saldo es:</string>
+    <string name="bt_not_enabled_leaving">Bluetooth no está activado</string>
+    <string name="title_paired_devices">Dispositivos emparejados</string>
+    <string name="title_other_devices">Otros dispositivos disponibles</string>
+    <string name="none_paired">No hay dispositivos emparejados</string>
+    <string name="scanning">Buscando</string>
+    <string name="none_found">No se encontraron dispositivos</string>
+    <string name="select_device">Seleccione un dispositivo </string>
+    <string name="connect">Conecte un dispositivo</string>
+    <string name="discoverable">  Visible</string>
+    <string name="title_connected_to">Conectado con: </string>
+    <string name="title_connecting">Conectando</string>
+    <string name="title_not_connected">No conectado</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="on">Encender</string>
+    <string name="recibe">Recibir Pago</string>
+    <string name="envio">Canjear</string>
+    <string name="histo">Historial</string>
+</resources>
